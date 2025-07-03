@@ -22,44 +22,34 @@ Cyfer is a secure, easy-to-use password manager that protects your data with end
 
 <h2>Certificates</h2>
 
-### 1. Foundations of User Experience (UX) Design
-<a href="https://coursera.org/share/bdb35ef0604c4e05f7496c2a6a8a5746">
-
+### 1. <h1><a href="https://coursera.org/share/bdb35ef0604c4e05f7496c2a6a8a5746">Foundations of User Experience (UX) Design</a><h1/>
 ![Google Certificate](Coursera1.png)
 
 ---
 
-### 2. Start the UX Design Process: Empathize, Define, and Ideate 
+### 2. <h1><a href="https://www.coursera.org/account/accomplishments/verify/QFE1PN90IYRJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Start the UX Design Process: Empathize, Define, and Ideate</a><h1/>
 <a href="https://coursera.org/share/ce7f07222465bcb75298b6ed6e2deaab">
 
 ![Google Certificate](Coursera2.png)
 
 ---
 
-### 3. Build Wireframes and Low-Fidelity Prototypes 
-<a href="https://www.coursera.org/account/accomplishments/verify/82F8LSSOED1C?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">
-
+### 3. <h1><a href="https://coursera.org/share/b603f8fbaa5cec0154bb7cbaf5d1dbc0">Build Wireframes and Low-Fidelity Prototypes</a><h1/>
 ![Google Certificate](Coursera3.png)
 
 ---
 
-### 5. Create High-Fidelity Designs and Prototypes in Figma 
-<a href="https://coursera.org/share/080dfa9eff6f4299ccb3615b1d227cd9">
-
+### 5. <h1><a href="https://coursera.org/share/080dfa9eff6f4299ccb3615b1d227cd9">Create High-Fidelity Designs and Prototypes in Figma</a><h1/>
 ![Google Certificate](Coursera5.png)
 
 ---
 
-### 6. Input and Interaction
-<a href="https://coursera.org/share/6b9b6f2d6bef8b18315d32cb16d464ce">
-
+### 6. <h1><a href="https://coursera.org/share/6b9b6f2d6bef8b18315d32cb16d464ce">Input and Interaction</a><h1/>
 ![UCSan Diego](Coursera6.png)
 
 ---
 
-### 7. Introduction to User Experience Design
-<a href="https://coursera.org/share/0114e3bfbf6701d94466de820cba3a7b">
-
+### 7. <a href="https://coursera.org/share/0114e3bfbf6701d94466de820cba3a7b">Introduction to User Experience Design</a><h1/>
 ![Georgia Institute of Technology](Coursera7.png)
 
 
