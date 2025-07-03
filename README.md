@@ -34,9 +34,14 @@ Figma
 
 ---
 
-### 5. Create High-Fidelity Designs and Prototypes in
-Figma 
-![Google Certificate](Coursera5.png)
+### 6. Input and Interaction
+![UCSan Diego](Coursera6.png)
+
+---
+
+### 7. Introduction to User Experience Design
+![Georgia Institute of Technology](Coursera7.png)
+
 
 
 <h2>Connect with me:</h2>
