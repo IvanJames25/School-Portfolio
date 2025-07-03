@@ -14,17 +14,17 @@
 <h2>Certificates</h2>
 
 ### 1. Foundations of User Experience (UX) Design  
-![UX Design Certificate](Coursera1.png)
+![Google Certificate](Coursera1.png)
 
 ---
 
 ### 2. Start the UX Design Process: Empathize, Define, and Ideate 
-![Figma Certificate](Coursera2.png)
+![Google Certificate](Coursera2.png)
 
 ---
 
-### 3. Data Analytics Basics  
-![Analytics Certificate](certificates/data-analytics-certificate.png)
+### 3. Build Wireframes and Low-Fidelity Prototypes 
+![Google Certificate](Coursera3.png)
 
 <h2>Connect with me:</h2>
 
