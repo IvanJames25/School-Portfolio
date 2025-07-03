@@ -14,12 +14,12 @@
 <h2>Certificates</h2>
 
 ### 1. Foundations of User Experience (UX) Design  
-![UX Design Certificate](Coursera1.png)
+![UX Design Certificate](Coursera1.pdf)
 
 ---
 
 ### 2. Start the UX Design Process: Empathize, Define, and Ideate 
-![Figma Certificate](Coursera2.png)
+![Figma Certificate](Coursera2.pdf)
 
 ---
 
