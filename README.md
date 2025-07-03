@@ -28,8 +28,7 @@
 
 ---
 
-### 5. Create High-Fidelity Designs and Prototypes in
-Figma 
+### 5. Create High-Fidelity Designs and Prototypes in Figma 
 ![Google Certificate](Coursera5.png)
 
 ---
