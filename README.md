@@ -13,8 +13,7 @@
 
 <h2>Certificates</h2>
 
-### 1. Foundations of User Experience (UX) Design  ### 2. Start the UX Design Process: Empathize, Define, and Ideate 
-![Google Certificate](Coursera2.png)
+### 1. Foundations of User Experience (UX) Design
 ![Google Certificate](Coursera1.png)
 
 ---
@@ -26,6 +25,12 @@
 
 ### 3. Build Wireframes and Low-Fidelity Prototypes 
 ![Google Certificate](Coursera3.png)
+
+---
+
+### 5. Create High-Fidelity Designs and Prototypes in
+Figma 
+![Google Certificate](Coursera5.png)
 
 ---
 
