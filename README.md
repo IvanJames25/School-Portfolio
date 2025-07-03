@@ -2,7 +2,8 @@
 <h1>Hi, I'm Ivan James! <br/><a href="https://github.com/IvanJames25">School Portfolio</a>, <a href="www.linkedin.com/in/ivan-james-langres-aa93bb275">Linkedin Portfolio</a></h1>
 
 <h2>Member of Team ADL</h2>
-![Our Team Logo](https://example.com/my-image.png)
+
+![Team ADL](TeamADL.png)
 
 <h2>Introduction</h2>
 
