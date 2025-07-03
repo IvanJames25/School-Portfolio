@@ -1,5 +1,5 @@
 # School-Portfolio
-<h1>Hi, I'm Ivan James! <br/><a href="https://github.com/IvanJames25">School Portfolio</a>|<a href="www.linkedin.com/in/ivan-james-langres-aa93bb275">Linkedin Portfolio</a>|<a href="https://www.figma.com/design/pHAOW9XRJTtZFc4CsqkBm0/HCI?node-id=69-946&p=f&m=draw">Figma Prototype</a></h1>
+<h1>Hi, I'm Ivan James! <br/> | <a href="https://github.com/IvanJames25">School Portfolio</a> | <a href="www.linkedin.com/in/ivan-james-langres-aa93bb275">Linkedin Portfolio</a> | <a href="https://www.figma.com/design/pHAOW9XRJTtZFc4CsqkBm0/HCI?node-id=69-946&p=f&m=draw">Figma Prototype</a> | </h1>
 
 <h2>Member of Team ADL</h2>
 
