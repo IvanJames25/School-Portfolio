@@ -51,11 +51,3 @@ Cyfer is a secure, easy-to-use password manager that protects your data with end
 
 ### 7. <a href="https://coursera.org/share/0114e3bfbf6701d94466de820cba3a7b">Introduction to User Experience Design</a><h1/>
 ![Georgia Institute of Technology](Coursera7.png)
-
-
-
-<h2>Connect with me:</h2>
-
-[<img align="left" alt="Ivan James | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: www.linkedin.com/in/ivan-james-langres
