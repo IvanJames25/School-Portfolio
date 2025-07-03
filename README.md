@@ -29,8 +29,6 @@ Cyfer is a secure, easy-to-use password manager that protects your data with end
 ---
 
 ### 2. <h1><a href="https://www.coursera.org/account/accomplishments/verify/QFE1PN90IYRJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Start the UX Design Process: Empathize, Define, and Ideate</a><h1/>
-<a href="https://coursera.org/share/ce7f07222465bcb75298b6ed6e2deaab">
-
 ![Google Certificate](Coursera2.png)
 
 ---
