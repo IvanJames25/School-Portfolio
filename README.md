@@ -24,31 +24,37 @@ Cyfer is a secure, easy-to-use password manager that protects your data with end
 
 ### 1. Foundations of User Experience (UX) Design
 ![Google Certificate](Coursera1.png)
+<a href="https://coursera.org/share/bdb35ef0604c4e05f7496c2a6a8a5746">
 
 ---
 
 ### 2. Start the UX Design Process: Empathize, Define, and Ideate 
 ![Google Certificate](Coursera2.png)
+<a href="https://coursera.org/share/ce7f07222465bcb75298b6ed6e2deaab">
 
 ---
 
 ### 3. Build Wireframes and Low-Fidelity Prototypes 
 ![Google Certificate](Coursera3.png)
+<a href="https://www.coursera.org/account/accomplishments/verify/82F8LSSOED1C?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">
 
 ---
 
 ### 5. Create High-Fidelity Designs and Prototypes in Figma 
 ![Google Certificate](Coursera5.png)
+<a href="https://coursera.org/share/080dfa9eff6f4299ccb3615b1d227cd9">
 
 ---
 
 ### 6. Input and Interaction
 ![UCSan Diego](Coursera6.png)
+<a href="https://coursera.org/share/6b9b6f2d6bef8b18315d32cb16d464ce">
 
 ---
 
 ### 7. Introduction to User Experience Design
 ![Georgia Institute of Technology](Coursera7.png)
+<a href="https://coursera.org/share/0114e3bfbf6701d94466de820cba3a7b">
 
 
 
