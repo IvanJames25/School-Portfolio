@@ -11,8 +11,8 @@
 ![Team ADL](TeamADL.png)
 
 <h2>Introduction</h2>
-- <h1>TEAM ADL - AVILA, DORADO, LANGRES
-Cyfer is a secure, easy-to-use password manager that protects your data with end-to-end encryption and zero-knowledge security. Store, generate, and access your passwords safely—anytime, anywhere.</h1>
+<b><h4>TEAM ADL - AVILA, DORADO, LANGRES</h4></b>
+
 <b>CYFER is a modern, secure, and user-friendly password manager
 designed to address these needs by providing encrypted vaults,
 intuitive interfaces, and seamless synchronization across devices,
@@ -20,10 +20,43 @@ ensuring that users can store, manage, and retrieve their credentials
 safely and efficiently.</b>
 
 <h2>Usage instructions</h2>
-- <b>TEAM ADL - AVILA, DORADO, LANGRES
+- <b>User Authentication 
 
+Login to CYFER vault 
 
-Cyfer is a secure, easy-to-use password manager that protects your data with end-to-end encryption and zero-knowledge security. Store, generate, and access your passwords safely—anytime, anywhere.</b>
+Multi-factor authentication (optional) 
+
+Password Management 
+
+Add new credentials (username, password, URL) 
+
+Edit existing credentials 
+
+Delete credentials 
+
+Organizing Credentials 
+
+Create categories or folders 
+
+Move credentials between folders 
+
+Password Retrieval 
+
+Search for credentials by keyword or category 
+
+Copy or auto-fill passwords 
+
+Synchronization 
+
+Sync vault data across devices 
+
+Settings and Security 
+
+Change master password 
+
+Enable biometric authentication 
+
+Configure synchronization preferences </b>
 
 <h2>User Manual</h2>
 <h2> | <a href="https://www.figma.com/design/pHAOW9XRJTtZFc4CsqkBm0/HCI?node-id=69-946&p=f&m=draw">Figma Prototype</a> | </h2>
