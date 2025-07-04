@@ -20,26 +20,43 @@ ensuring that users can store, manage, and retrieve their credentials
 safely and efficiently.</b>
 
 <h2><b>Usage instructions</h2>
-- <b>User Authentication 
-A.Login to CYFER vault 
-B.Multi-factor authentication (optional)</b>
+User Authentication 
+
+Login to CYFER vault 
+
+Multi-factor authentication (optional) 
 
 Password Management 
+
 Add new credentials (username, password, URL) 
+
 Edit existing credentials 
+
 Delete credentials 
+
 Organizing Credentials 
+
 Create categories or folders 
+
 Move credentials between folders 
+
 Password Retrieval 
+
 Search for credentials by keyword or category 
+
 Copy or auto-fill passwords 
+
 Synchronization 
+
 Sync vault data across devices 
+
 Settings and Security 
+
 Change master password 
+
 Enable biometric authentication 
-Configure synchronization preferences </b>
+
+Configure synchronization preferences 
 
 <h2>User Manual</h2>
 <h2> | <a href="https://www.figma.com/design/pHAOW9XRJTtZFc4CsqkBm0/HCI?node-id=69-946&p=f&m=draw">Figma Prototype</a> | </h2>
