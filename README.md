@@ -19,43 +19,26 @@ intuitive interfaces, and seamless synchronization across devices,
 ensuring that users can store, manage, and retrieve their credentials
 safely and efficiently.</b>
 
-<h2>Usage instructions</h2>
+<h2><b>Usage instructions</h2>
 - <b>User Authentication 
-
-Login to CYFER vault 
-
-Multi-factor authentication (optional) 
+A.Login to CYFER vault 
+B.Multi-factor authentication (optional)</b>
 
 Password Management 
-
 Add new credentials (username, password, URL) 
-
 Edit existing credentials 
-
 Delete credentials 
-
 Organizing Credentials 
-
 Create categories or folders 
-
 Move credentials between folders 
-
 Password Retrieval 
-
 Search for credentials by keyword or category 
-
 Copy or auto-fill passwords 
-
 Synchronization 
-
 Sync vault data across devices 
-
 Settings and Security 
-
 Change master password 
-
 Enable biometric authentication 
-
 Configure synchronization preferences </b>
 
 <h2>User Manual</h2>
