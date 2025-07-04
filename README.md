@@ -82,6 +82,10 @@ C.Configure synchronization preferences
 
 ---
 
+### 4. <h1><a href="https://coursera.org/share/634b2adf80607ede6664c97b828fad35">Conduct UX Research and Test Early Concepts</a><h1/>
+![Google Certificate](Coursera4.png)
+
+---
 ### 5. <h1><a href="https://coursera.org/share/080dfa9eff6f4299ccb3615b1d227cd9">Create High-Fidelity Designs and Prototypes in Figma</a><h1/>
 ![Google Certificate](Coursera5.png)
 
