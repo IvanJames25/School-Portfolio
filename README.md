@@ -19,7 +19,7 @@ intuitive interfaces, and seamless synchronization across devices,
 ensuring that users can store, manage, and retrieve their credentials
 safely and efficiently.</b>
 
-<h2><b>Usage instructions</h2>
+<h2><b>| Usage instructions |</h2>
 
 <h2>User Authentication</h2>
 
