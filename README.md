@@ -13,14 +13,11 @@
 <h2>Introduction</h2>
 - <b>TEAM ADL - AVILA, DORADO, LANGRES
 Cyfer is a secure, easy-to-use password manager that protects your data with end-to-end encryption and zero-knowledge security. Store, generate, and access your passwords safely—anytime, anywhere.</b>
-
-
-
-- <b>CYFER is a modern, secure, and user-friendly password manager
+<a- <b>CYFER is a modern, secure, and user-friendly password manager
 designed to address these needs by providing encrypted vaults,
 intuitive interfaces, and seamless synchronization across devices,
 ensuring that users can store, manage, and retrieve their credentials
-safely and efficiently.</b>
+safely and efficiently.</b></a>
 
 <h2>Usage instructions</h2>
 - <b>TEAM ADL - AVILA, DORADO, LANGRES
