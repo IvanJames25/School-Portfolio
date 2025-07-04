@@ -1,6 +1,11 @@
 # My Portfolio
 <h1>Hi, I'm Ivan James! <br/> | <a href="https://github.com/IvanJames25">School Portfolio</a> | <a href="www.linkedin.com/in/ivan-james-langres-aa93bb275">Linkedin Portfolio</a> | <a href="https://www.figma.com/design/pHAOW9XRJTtZFc4CsqkBm0/HCI?node-id=69-946&p=f&m=draw">Figma Prototype</a> | </h1>
 
+<h2>Introduction</h2>
+
+- <b>Hi, my name is Ivan James, and I’m a student with a strong passion for design, technology, and data. I’ve been learning UX/UI design and have already created some prototypes using Figma, which helped me understand how to design user-friendly digital experiences. I’m also eager to learn coding so I can turn my designs into real, working products. In addition, I’m interested in data analysis and want to explore how data can improve user experiences and guide better design decisions. I’m excited to keep learning and growing in all these areas.</b>
+
+
 <h2>Member of Team ADL</h2>
 
 ![Team ADL](TeamADL.png)
