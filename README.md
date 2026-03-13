@@ -22,7 +22,7 @@ safely and efficiently.</b>
 <h2>Other Projects</h2>
 <b><h4>AI-Powered Automation: Future of E-Commerce</h4></b>
 
-![AI-Powered Automation](AI-Project.png)<h2><b>(AI-QR.png)</h2>
+![AI-Powered Automation](AI-Project.png)[QR](AI-QR.png)
 
 
 <h2><b>| Usage instructions |</h2>
