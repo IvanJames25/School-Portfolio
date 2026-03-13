@@ -20,7 +20,6 @@ ensuring that users can store, manage, and retrieve their credentials
 safely and efficiently.</b>
 
 <h2>Other Projects</h2>
-<b><h4>AI-Powered Automation: Future of E-Commerce</h4></b>
 
 <h2 align="center">AI-Powered Automation: Future of E-Commerce</h2>
 
