@@ -22,10 +22,19 @@ safely and efficiently.</b>
 <h2>Other Projects</h2>
 <b><h4>AI-Powered Automation: Future of E-Commerce</h4></b>
 
-<p align="center">
-  <img src="AI-Project.png" alt="AI-Powered Automation" width="70%">
-  <img src="AI-QR.png" alt="QR Code" width="30%">
-</p>
+<h2 align="center">AI-Powered Automation: Future of E-Commerce</h2>
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="AI-Project.png" width="450">
+</td>
+
+<td align="center">
+<img src="AI-QR.png" width="200">
+</td>
+</tr>
+</table>
 
 <h2><b>| Usage instructions |</h2>
 
