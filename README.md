@@ -24,7 +24,7 @@ safely and efficiently.</b>
 
 <p align="center">
   <img src="AI-Project.png" alt="AI-Powered Automation" width="70%">
-  <img src="AI-QR.png" alt="QR Code" width="70%">
+  <img src="AI-QR.png" alt="QR Code" width="40%">
 </p>
 
 <h2><b>| Usage instructions |</h2>
